@@ -1,0 +1,11 @@
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\bin\Debug\BladSteenSchaar.exe.config
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\bin\Debug\BladSteenSchaar.exe
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\bin\Debug\BladSteenSchaar.pdb
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.csprojResolveAssemblyReference.cache
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.BladSteenSchaar.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.BladSteenSchaarView.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.KeuzeScoreView.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.Properties.Resources.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.csproj.GenerateResource.Cache
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.exe
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.pdb
