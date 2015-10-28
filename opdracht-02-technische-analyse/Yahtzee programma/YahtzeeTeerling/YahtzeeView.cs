@@ -61,17 +61,17 @@ namespace YahtzeeTeerling
 
 
             scoreLabel.Text = "0";
-            aantalWorpenLabel.Text = "0";
+            //aantalWorpenLabel.Text = "0";
 
-            yController.yModel.AantalWorpen = 0;
-            aantalWorpenLabel.Text = yController.yModel.AantalWorpen.ToString();
+            //yController.yModel.AantalWorpen = 0;
+            //aantalWorpenLabel.Text = yController.yModel.AantalWorpen.ToString();
 
         }
 
         private void werpAlleTeerlingen_Click(object sender, EventArgs e)
         {
 
-            aantalWorpenLabel.Text = yController.yModel.AantalWorpen.ToString();
+            //aantalWorpenLabel.Text = yController.yModel.AantalWorpen.ToString();
 
             List<int> listAantalOgen = new List<int>();
 

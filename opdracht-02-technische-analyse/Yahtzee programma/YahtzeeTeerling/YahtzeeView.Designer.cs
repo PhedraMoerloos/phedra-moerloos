@@ -31,8 +31,6 @@
             this.werpAlleTeerlingen = new System.Windows.Forms.Button();
             this.scoreTextLabel = new System.Windows.Forms.Label();
             this.scoreLabel = new System.Windows.Forms.Label();
-            this.aantalWorpenLabel = new System.Windows.Forms.Label();
-            this.aantalWorpenTextLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // werpAlleTeerlingen
@@ -65,33 +63,11 @@
             this.scoreLabel.Text = "label1";
             this.scoreLabel.Click += new System.EventHandler(this.scoreLabel_Click);
             // 
-            // aantalWorpenLabel
-            // 
-            this.aantalWorpenLabel.AutoSize = true;
-            this.aantalWorpenLabel.Location = new System.Drawing.Point(373, 162);
-            this.aantalWorpenLabel.Name = "aantalWorpenLabel";
-            this.aantalWorpenLabel.Size = new System.Drawing.Size(35, 13);
-            this.aantalWorpenLabel.TabIndex = 3;
-            this.aantalWorpenLabel.Text = "label1";
-            this.aantalWorpenLabel.Click += new System.EventHandler(this.aantalWorpenLabel_Click);
-            // 
-            // aantalWorpenTextLabel
-            // 
-            this.aantalWorpenTextLabel.AutoSize = true;
-            this.aantalWorpenTextLabel.Location = new System.Drawing.Point(335, 162);
-            this.aantalWorpenTextLabel.Name = "aantalWorpenTextLabel";
-            this.aantalWorpenTextLabel.Size = new System.Drawing.Size(36, 13);
-            this.aantalWorpenTextLabel.TabIndex = 4;
-            this.aantalWorpenTextLabel.Text = "Worp:";
-            this.aantalWorpenTextLabel.Click += new System.EventHandler(this.aantalWorpenTextLabel_Click);
-            // 
             // YahtzeeView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.Controls.Add(this.aantalWorpenTextLabel);
-            this.Controls.Add(this.aantalWorpenLabel);
             this.Controls.Add(this.scoreLabel);
             this.Controls.Add(this.scoreTextLabel);
             this.Controls.Add(this.werpAlleTeerlingen);
@@ -108,7 +84,5 @@
         private System.Windows.Forms.Button werpAlleTeerlingen;
         private System.Windows.Forms.Label scoreTextLabel;
         private System.Windows.Forms.Label scoreLabel;
-        private System.Windows.Forms.Label aantalWorpenLabel;
-        private System.Windows.Forms.Label aantalWorpenTextLabel;
     }
 }
