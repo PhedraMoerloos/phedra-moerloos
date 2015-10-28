@@ -9,3 +9,6 @@ C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.csproj.GenerateResource.Cache
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.exe
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\project\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.pdb
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-03-versiebeheer\opdracht in team werken\BladSteenSchaar\BladSteenSchaar\bin\Debug\BladSteenSchaar.exe.config
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-03-versiebeheer\opdracht in team werken\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.exe
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-03-versiebeheer\opdracht in team werken\BladSteenSchaar\BladSteenSchaar\obj\Debug\BladSteenSchaar.pdb
