@@ -18,6 +18,7 @@ namespace YahtzeeTeerling
         public Yahtzee()
         {
             InitializeComponent();
+            this.Text = "Yahtzee";
         }
 
 

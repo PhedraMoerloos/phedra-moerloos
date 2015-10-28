@@ -35,7 +35,7 @@
             // teerlingLabel
             // 
             this.teerlingLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.teerlingLabel.Location = new System.Drawing.Point(16, 11);
+            this.teerlingLabel.Location = new System.Drawing.Point(16, 9);
             this.teerlingLabel.Name = "teerlingLabel";
             this.teerlingLabel.Size = new System.Drawing.Size(122, 99);
             this.teerlingLabel.TabIndex = 0;
@@ -47,7 +47,7 @@
             // werpKnop
             // 
             this.werpKnop.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.werpKnop.Location = new System.Drawing.Point(35, 113);
+            this.werpKnop.Location = new System.Drawing.Point(34, 111);
             this.werpKnop.Name = "werpKnop";
             this.werpKnop.Size = new System.Drawing.Size(75, 23);
             this.werpKnop.TabIndex = 1;

@@ -19,3 +19,14 @@ C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\2\YahtzeeTeerling\Yahtz
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\2\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\2\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
 C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\2\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.TeerlingVieuw.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
+C:\Users\Phedra\Desktop\KDG\2e jaar\Software Engineering\phedra-moerloos\opdracht-02-technische-analyse\Yahtzee programma\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache

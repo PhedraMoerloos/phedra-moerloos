@@ -81,9 +81,11 @@ namespace YahtzeeTeerling
         {
 
             //presenter is enige die met view kan praten. Als je dit in controller maakt gebeurt er niks met de view.
-            int aantalOgen = controller.model.AantalOgen;
             bool isVast = controller.model.IsVast;
+
+            int aantalOgen = controller.model.AantalOgen;
             teerlingLabel.Text = aantalOgen.ToString();
+
 
         }
 

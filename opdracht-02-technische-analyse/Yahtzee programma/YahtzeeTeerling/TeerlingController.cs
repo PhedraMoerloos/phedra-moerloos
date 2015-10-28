@@ -58,12 +58,9 @@ namespace YahtzeeTeerling
         }
 
 
-        /*public void HideWerpButton()
-        {
+       
 
-            model.IsVisible = false;
-
-        }*/
+      
 
 
        

@@ -16,11 +16,13 @@ namespace YahtzeeTeerling
 
         }
 
-        private int aantalTeerlingen = 4;
+        private int aantalTeerlingen = 3;
 
         private int maxAantalWorpen = 3;
 
-        private int aantalWorpen = 0;
+        private int aantalWorpen;
+
+        private int score = 0;
 
 
         public int AantalTeerlingen
@@ -66,6 +68,23 @@ namespace YahtzeeTeerling
             }
 
         }
+
+
+
+
+        public int Score
+        {
+            get
+            {
+                return score;
+            }
+            set
+            {
+                score = value;
+            }
+        }
+
+
 
     }
 }

@@ -29,11 +29,15 @@
         private void InitializeComponent()
         {
             this.werpAlleTeerlingen = new System.Windows.Forms.Button();
+            this.scoreTextLabel = new System.Windows.Forms.Label();
+            this.scoreLabel = new System.Windows.Forms.Label();
+            this.aantalWorpenLabel = new System.Windows.Forms.Label();
+            this.aantalWorpenTextLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // werpAlleTeerlingen
             // 
-            this.werpAlleTeerlingen.Location = new System.Drawing.Point(14, 109);
+            this.werpAlleTeerlingen.Location = new System.Drawing.Point(167, 157);
             this.werpAlleTeerlingen.Name = "werpAlleTeerlingen";
             this.werpAlleTeerlingen.Size = new System.Drawing.Size(115, 23);
             this.werpAlleTeerlingen.TabIndex = 0;
@@ -41,20 +45,70 @@
             this.werpAlleTeerlingen.UseVisualStyleBackColor = true;
             this.werpAlleTeerlingen.Click += new System.EventHandler(this.werpAlleTeerlingen_Click);
             // 
+            // scoreTextLabel
+            // 
+            this.scoreTextLabel.AutoSize = true;
+            this.scoreTextLabel.Location = new System.Drawing.Point(20, 162);
+            this.scoreTextLabel.Name = "scoreTextLabel";
+            this.scoreTextLabel.Size = new System.Drawing.Size(38, 13);
+            this.scoreTextLabel.TabIndex = 1;
+            this.scoreTextLabel.Text = "Score:";
+            this.scoreTextLabel.Click += new System.EventHandler(this.scoreTextLabel_Click);
+            // 
+            // scoreLabel
+            // 
+            this.scoreLabel.AutoSize = true;
+            this.scoreLabel.Location = new System.Drawing.Point(79, 162);
+            this.scoreLabel.Name = "scoreLabel";
+            this.scoreLabel.Size = new System.Drawing.Size(35, 13);
+            this.scoreLabel.TabIndex = 2;
+            this.scoreLabel.Text = "label1";
+            this.scoreLabel.Click += new System.EventHandler(this.scoreLabel_Click);
+            // 
+            // aantalWorpenLabel
+            // 
+            this.aantalWorpenLabel.AutoSize = true;
+            this.aantalWorpenLabel.Location = new System.Drawing.Point(373, 162);
+            this.aantalWorpenLabel.Name = "aantalWorpenLabel";
+            this.aantalWorpenLabel.Size = new System.Drawing.Size(35, 13);
+            this.aantalWorpenLabel.TabIndex = 3;
+            this.aantalWorpenLabel.Text = "label1";
+            this.aantalWorpenLabel.Click += new System.EventHandler(this.aantalWorpenLabel_Click);
+            // 
+            // aantalWorpenTextLabel
+            // 
+            this.aantalWorpenTextLabel.AutoSize = true;
+            this.aantalWorpenTextLabel.Location = new System.Drawing.Point(335, 162);
+            this.aantalWorpenTextLabel.Name = "aantalWorpenTextLabel";
+            this.aantalWorpenTextLabel.Size = new System.Drawing.Size(36, 13);
+            this.aantalWorpenTextLabel.TabIndex = 4;
+            this.aantalWorpenTextLabel.Text = "Worp:";
+            this.aantalWorpenTextLabel.Click += new System.EventHandler(this.aantalWorpenTextLabel_Click);
+            // 
             // YahtzeeView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
+            this.Controls.Add(this.aantalWorpenTextLabel);
+            this.Controls.Add(this.aantalWorpenLabel);
+            this.Controls.Add(this.scoreLabel);
+            this.Controls.Add(this.scoreTextLabel);
             this.Controls.Add(this.werpAlleTeerlingen);
             this.Name = "YahtzeeView";
+            this.Size = new System.Drawing.Size(458, 192);
             this.Load += new System.EventHandler(this.YahtzeeView_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.Button werpAlleTeerlingen;
+        private System.Windows.Forms.Label scoreTextLabel;
+        private System.Windows.Forms.Label scoreLabel;
+        private System.Windows.Forms.Label aantalWorpenLabel;
+        private System.Windows.Forms.Label aantalWorpenTextLabel;
     }
 }

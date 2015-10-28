@@ -12,6 +12,7 @@ namespace YahtzeeTeerling
         private int aantalOgen;
         private bool isVast;
         private bool isVisible = false;
+        
 
         public TeerlingModel()
         {
@@ -56,6 +57,9 @@ namespace YahtzeeTeerling
                 isVisible = value;
             }
         }
+
+
+        
 
 
 
